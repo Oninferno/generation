@@ -24,5 +24,7 @@ public class teste {
 		}else {
 			System.out.printf("\nVocê entrou com uma idade inválida");
 		}
+		
+		ler.close();
 	}
 }

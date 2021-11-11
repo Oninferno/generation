@@ -25,5 +25,6 @@ public class exercicio3_condicional {
 		}else {
 			System.out.printf("\nVocê não pode participar");
 		}
+		ler.close();
 	}
 }

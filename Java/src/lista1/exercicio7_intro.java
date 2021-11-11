@@ -25,5 +25,6 @@ public class exercicio7_intro {
 		
 		System.out.printf("\nO valor de x é: %d",x);
 		System.out.printf("\nO valor de y é: %d",y);
+		ler.close();
 	}
 }

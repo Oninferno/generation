@@ -16,6 +16,7 @@ public class exercicio4_condicional {
 			System.out.printf("Impar");
 			System.out.printf("\nEsse número eleva ao quadrado é: %f",Math.pow(num, elev));
 		}
+		ler.close();
 	}
 }
 

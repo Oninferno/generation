@@ -43,5 +43,6 @@ public class exercicio2_condicional
 		}
 		
 		System.out.printf("\nOs números inseridos em ordem crescente são: %d %d %d",ter,seg,pri);
+		ler.close();
 	}
 }

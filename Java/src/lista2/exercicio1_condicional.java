@@ -24,5 +24,6 @@ public class exercicio1_condicional
 		}
 		
 		System.out.printf("O maior numero é o %d",maior);
+		ler.close();
 	}
 }

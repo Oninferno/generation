@@ -16,5 +16,6 @@ public class exercicio2_intro
 		meses = totalDias/12;
 		
 		System.out.printf("Você tem " +ano+ " anos " +meses+ " meses e " +totalDias+ " dias");
+		ler.close();
 	}
 }

@@ -19,5 +19,6 @@ public class exercicio1_intro {
 		
 		calculo = (mes*31)+(ano*365)+dia;
 		System.out.printf("Você tem " + calculo + " dias de vida.");
+		ler.close();
 	}
 }

@@ -22,5 +22,6 @@ public class exercicio4_intro
 		d=(r+s)/2;
 				
 		System.out.println("A resultante da expressão é: "+d);
+		ler.close();
 	}
 }

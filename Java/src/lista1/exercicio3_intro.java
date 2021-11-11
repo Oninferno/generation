@@ -16,5 +16,6 @@ public class exercicio3_intro
 		minutos = duracao/60;
 		
 		System.out.printf("Então esse evento tem " + horas +"h " + minutos +"min " + duracao + "s");
+		ler.close();
 	}
 }

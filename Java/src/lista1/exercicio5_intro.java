@@ -21,5 +21,6 @@ public class exercicio5_intro {
 		media=((nota1*peso1)+(nota2*peso2)+(nota3*peso3))/pesoTotal;
 				
 		System.out.println("A média ponderada total: "+media);
+		ler.close();
 	}
 }

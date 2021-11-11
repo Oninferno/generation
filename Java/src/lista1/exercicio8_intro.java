@@ -13,5 +13,6 @@ public class exercicio8_intro {
 		soma = custoFabrica + (custoDistribuidor*impostos/100);
 		
 		System.out.printf("\nO custo ao consumidor é de R$%d",soma);
+		ler.close();
 	}
 }
